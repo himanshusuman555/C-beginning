@@ -2,7 +2,7 @@
 #include<conio.h>
 class Rectangle
 {
-	public:
+	public:          //we are able to access the variables of the class via objects below because these are public . if private then these cant bhe accessed by the objects directly.
 	 int height;
 	 int width;
 	 int area;
