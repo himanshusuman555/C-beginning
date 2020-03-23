@@ -1,0 +1,19 @@
+//print all double dimention array
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int array[3][3]={{7,8,9},{1,2,3},{4,5,6}};
+ int i,j;
+ printf("Elements of array is given below\n");
+ for(i=0;i<3;i++)
+  {
+   for(j=0;j<3;j++)
+    {
+     printf("%d",array[i][j]);
+    }
+   printf("\n");
+  }
+}
+
+
