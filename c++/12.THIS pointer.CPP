@@ -1,3 +1,4 @@
+//pointer to memeber access operation
 #include<iostream.h>
 #include<conio.h>
 class test
