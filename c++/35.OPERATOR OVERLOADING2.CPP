@@ -1,4 +1,4 @@
-//before operator overloading // trying using simple function
+//OVERLOADING == COMAPRISION OPERATOR
 #include<iostream.h>
 #include<conio.h>
 class Test
